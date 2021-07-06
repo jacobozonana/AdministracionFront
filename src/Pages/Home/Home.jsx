@@ -54,7 +54,7 @@ function Home() {
       ) : (
         <>
           <Header />
-          <div id="start" className="seccion1">
+          {/* <div id="start" className="seccion1">
             <Container className="themed-container" fluid={true}>
               <h4 className="texto1">
                 Estabilidad emocional para tu vida diaria
@@ -67,9 +67,9 @@ function Home() {
                 de confianza cuando lo necesites.
               </h4>
             </Container>
-          </div>
-          <Seccion2 />
-          <Seccion3 />
+          </div> */}
+          {/* <Seccion2 />
+          <Seccion3 /> */}
           <Footer />
           <Whatsapp />
         </>

@@ -1,7 +1,7 @@
 import React, { useContext } from "react";
 import { AuthContext } from "../../../contexts/AuthContext";
 import { Nav, NavDropdown, Navbar } from "react-bootstrap";
-import Logo from "../../../Counselor/Logo.jpg";
+import Logo from "../../../Counselor/Logo1.png";
 import Login from "../../Users/Login";
 import "../../../index.css";
 import "bootstrap/dist/css/bootstrap.min.css";
